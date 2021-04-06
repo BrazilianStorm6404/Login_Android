@@ -10,3 +10,6 @@ a android app used for login in our team
 ## Basic routine of the app
 - Reads a qr code, validates it and save into the DB
 - perform a querie to find the correct data in the DB
+
+
+By max seishum murata müller
